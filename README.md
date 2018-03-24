@@ -11,3 +11,7 @@ An example of a Discord Bot using the discord.py API Wrapper and theCatAPI.com
 * Procfile
 * requirements.txt
 * Change where the client runs from in newBot.py
+
+###
+API Wrapper: https://github.com/Rapptz/discord.py
+Discord Developers: https://discordapp.com/developers/applications/me/426766566806519818
